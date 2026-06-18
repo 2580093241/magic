@@ -23,8 +23,16 @@
       "maxUses": 9,
       "usedCount": 0,
       "createdAt": 1781785856595
+    },
+    {
+      "code": "N3HJ-F9JQ-8PQB-C82X",
+      "expireDays": 1,
+      "expireAt": 1781872481317,
+      "maxUses": 9,
+      "usedCount": 0,
+      "createdAt": 1781786081317
     }
   ],
-  "updatedAt": "2026-06-18T12:30:59.333Z",
-  "total": 3
+  "updatedAt": "2026-06-18T12:34:43.364Z",
+  "total": 4
 }
