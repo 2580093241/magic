@@ -1,22 +1,14 @@
 {
   "cards": [
     {
-      "code": "84OL-N3GJ-OGEQ-U3QD",
+      "code": "PP1T-4E1P-YULS-1ZYV",
       "expireDays": 0,
       "expireAt": null,
       "maxUses": null,
       "usedCount": 0,
-      "createdAt": 1781779188165
-    },
-    {
-      "code": "7N6R-OZC9-ADB5-EKW1",
-      "expireDays": 0,
-      "expireAt": null,
-      "maxUses": null,
-      "usedCount": 0,
-      "createdAt": 1781779595041
+      "createdAt": 1781778499937
     }
   ],
-  "updatedAt": "2026-06-18T10:46:36.553Z",
-  "total": 2
+  "updatedAt": "2026-06-18T11:01:52.709Z",
+  "total": 1
 }
