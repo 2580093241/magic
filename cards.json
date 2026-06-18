@@ -1,22 +1,14 @@
 {
   "cards": [
     {
-      "code": "2UYR-7KNW-757X-GSOG",
-      "expireDays": 30,
-      "expireAt": 1784377408674,
-      "maxUses": 10,
-      "usedCount": 0,
-      "createdAt": 1781785408674
-    },
-    {
-      "code": "7YNH-N5AR-9FJW-LY0X",
+      "code": "S8D2-F217-NXOB-XA2S",
       "expireDays": 20,
-      "expireAt": 1783513413657,
-      "maxUses": 3,
+      "expireAt": 1783513494116,
+      "maxUses": null,
       "usedCount": 0,
-      "createdAt": 1781785413657
+      "createdAt": 1781785494116
     }
   ],
-  "updatedAt": "2026-06-18T12:23:35.032Z",
-  "total": 2
+  "updatedAt": "2026-06-18T12:24:56.943Z",
+  "total": 1
 }
