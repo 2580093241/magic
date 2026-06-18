@@ -1,22 +1,14 @@
 {
   "cards": [
     {
-      "code": "PP1T-4E1P-YULS-1ZYV",
-      "expireDays": 0,
-      "expireAt": null,
-      "maxUses": null,
+      "code": "R6GZ-YANJ-U185-J0Z8",
+      "expireDays": 30,
+      "expireAt": 1784376596961,
+      "maxUses": 10,
       "usedCount": 0,
-      "createdAt": 1781778499937
-    },
-    {
-      "code": "6QSV-FDST-FD2Z-K6X8",
-      "expireDays": 1,
-      "expireAt": 1781868319785,
-      "maxUses": 1,
-      "usedCount": 0,
-      "createdAt": 1781781919785
+      "createdAt": 1781784596961
     }
   ],
-  "updatedAt": "2026-06-18T11:32:27.711Z",
-  "total": 2
+  "updatedAt": "2026-06-18T12:09:57.939Z",
+  "total": 1
 }
