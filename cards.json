@@ -15,8 +15,16 @@
       "maxUses": null,
       "usedCount": 0,
       "createdAt": 1781785512627
+    },
+    {
+      "code": "DK3F-VGJW-NFOA-M1FI",
+      "expireDays": 1,
+      "expireAt": 1781872256595,
+      "maxUses": 9,
+      "usedCount": 0,
+      "createdAt": 1781785856595
     }
   ],
-  "updatedAt": "2026-06-18T12:25:13.705Z",
-  "total": 2
+  "updatedAt": "2026-06-18T12:30:59.333Z",
+  "total": 3
 }
