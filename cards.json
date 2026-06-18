@@ -7,8 +7,16 @@
       "maxUses": null,
       "usedCount": 0,
       "createdAt": 1781785494116
+    },
+    {
+      "code": "3WO6-08JJ-UHVA-RGM9",
+      "expireDays": 0,
+      "expireAt": null,
+      "maxUses": null,
+      "usedCount": 0,
+      "createdAt": 1781785512627
     }
   ],
-  "updatedAt": "2026-06-18T12:24:56.943Z",
-  "total": 1
+  "updatedAt": "2026-06-18T12:25:13.705Z",
+  "total": 2
 }
