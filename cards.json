@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "code": "ZW3Y-L0AQ-1Y7G-3VQO",
+      "expireDays": 30,
+      "expireAt": 1784370072959,
+      "maxUses": 10,
+      "usedCount": 0,
+      "createdAt": 1781778072959
+    }
+  ],
+  "updatedAt": "2026-06-18T10:22:42.473Z",
+  "total": 1
+}
