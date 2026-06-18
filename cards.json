@@ -1,14 +1,30 @@
 {
   "cards": [
     {
-      "code": "2FVR-4SFB-GPOJ-9BPC",
-      "expireDays": 0,
-      "expireAt": null,
-      "maxUses": null,
+      "code": "FQE7-DYI0-9CNP-I5BI",
+      "expireDays": 30,
+      "expireAt": 1784376873698,
+      "maxUses": 10,
       "usedCount": 0,
-      "createdAt": 1781785186744
+      "createdAt": 1781784873698
+    },
+    {
+      "code": "RITV-KY1K-2JBT-5TTO",
+      "expireDays": 30,
+      "expireAt": 1784377007674,
+      "maxUses": 10,
+      "usedCount": 0,
+      "createdAt": 1781785007674
+    },
+    {
+      "code": "ECSY-RZ7E-7U63-EQIU",
+      "expireDays": 30,
+      "expireAt": 1784377015365,
+      "maxUses": 10,
+      "usedCount": 0,
+      "createdAt": 1781785015365
     }
   ],
-  "updatedAt": "2026-06-18T12:19:49.027Z",
-  "total": 1
+  "updatedAt": "2026-06-18T12:21:28.450Z",
+  "total": 3
 }
