@@ -1,0 +1,31 @@
+{
+  "cards": [
+    {
+      "code": "MAGIC-001",
+      "expireDays": 30,
+      "createdAt": 1781764027265
+    },
+    {
+      "code": "MAGIC-003",
+      "expireDays": 30,
+      "createdAt": 1781764027265
+    },
+    {
+      "code": "MAGIC-005",
+      "expireDays": 30,
+      "createdAt": 1781764027265
+    },
+    {
+      "code": "MAGIC-007",
+      "expireDays": 30,
+      "createdAt": 1781764027265
+    },
+    {
+      "code": "MAGIC-009",
+      "expireDays": 30,
+      "createdAt": 1781764027265
+    }
+  ],
+  "updatedAt": "2026-06-18T06:27:19.904Z",
+  "total": 5
+}
