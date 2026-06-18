@@ -7,8 +7,16 @@
       "maxUses": null,
       "usedCount": 0,
       "createdAt": 1781789303874
+    },
+    {
+      "code": "406E-EEOA-GTGA-USTR",
+      "expireDays": 0,
+      "expireAt": null,
+      "maxUses": null,
+      "usedCount": 0,
+      "createdAt": 1781789587532
     }
   ],
-  "updatedAt": "2026-06-18T13:32:57.187Z",
-  "total": 1
+  "updatedAt": "2026-06-18T13:33:10.696Z",
+  "total": 2
 }
