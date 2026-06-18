@@ -1,38 +1,14 @@
 {
   "cards": [
     {
-      "code": "S8D2-F217-NXOB-XA2S",
-      "expireDays": 20,
-      "expireAt": 1783513494116,
-      "maxUses": null,
-      "usedCount": 0,
-      "createdAt": 1781785494116
-    },
-    {
-      "code": "3WO6-08JJ-UHVA-RGM9",
+      "code": "4MN5-RJ84-7VF4-HO90",
       "expireDays": 0,
       "expireAt": null,
       "maxUses": null,
       "usedCount": 0,
-      "createdAt": 1781785512627
-    },
-    {
-      "code": "DK3F-VGJW-NFOA-M1FI",
-      "expireDays": 1,
-      "expireAt": 1781872256595,
-      "maxUses": 9,
-      "usedCount": 0,
-      "createdAt": 1781785856595
-    },
-    {
-      "code": "N3HJ-F9JQ-8PQB-C82X",
-      "expireDays": 1,
-      "expireAt": 1781872481317,
-      "maxUses": 9,
-      "usedCount": 0,
-      "createdAt": 1781786081317
+      "createdAt": 1781789303874
     }
   ],
-  "updatedAt": "2026-06-18T12:34:43.364Z",
-  "total": 4
+  "updatedAt": "2026-06-18T13:28:25.024Z",
+  "total": 1
 }
