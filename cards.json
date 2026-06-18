@@ -7,8 +7,16 @@
       "maxUses": null,
       "usedCount": 0,
       "createdAt": 1781778499937
+    },
+    {
+      "code": "6QSV-FDST-FD2Z-K6X8",
+      "expireDays": 1,
+      "expireAt": 1781868319785,
+      "maxUses": 1,
+      "usedCount": 0,
+      "createdAt": 1781781919785
     }
   ],
-  "updatedAt": "2026-06-18T11:24:59.335Z",
-  "total": 1
+  "updatedAt": "2026-06-18T11:25:38.338Z",
+  "total": 2
 }
