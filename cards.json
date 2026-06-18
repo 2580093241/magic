@@ -1,22 +1,22 @@
 {
   "cards": [
     {
-      "code": "4MN5-RJ84-7VF4-HO90",
-      "expireDays": 0,
-      "expireAt": null,
-      "maxUses": null,
+      "code": "683U-3P9R-FFY9-4XGW",
+      "expireDays": 7,
+      "expireAt": 1782394562387,
+      "maxUses": 8,
       "usedCount": 0,
-      "createdAt": 1781789303874
+      "createdAt": 1781789762387
     },
     {
-      "code": "406E-EEOA-GTGA-USTR",
+      "code": "3M1M-KMOE-OM0O-46IL",
       "expireDays": 0,
       "expireAt": null,
       "maxUses": null,
       "usedCount": 0,
-      "createdAt": 1781789587532
+      "createdAt": 1781789768596
     }
   ],
-  "updatedAt": "2026-06-18T13:35:01.063Z",
+  "updatedAt": "2026-06-18T13:36:09.706Z",
   "total": 2
 }
