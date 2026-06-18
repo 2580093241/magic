@@ -7,8 +7,16 @@
       "maxUses": null,
       "usedCount": 0,
       "createdAt": 1781779188165
+    },
+    {
+      "code": "7N6R-OZC9-ADB5-EKW1",
+      "expireDays": 0,
+      "expireAt": null,
+      "maxUses": null,
+      "usedCount": 0,
+      "createdAt": 1781779595041
     }
   ],
-  "updatedAt": "2026-06-18T10:46:11.522Z",
-  "total": 1
+  "updatedAt": "2026-06-18T10:46:36.553Z",
+  "total": 2
 }
