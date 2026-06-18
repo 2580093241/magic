@@ -1,22 +1,14 @@
 {
   "cards": [
     {
-      "code": "R6GZ-YANJ-U185-J0Z8",
-      "expireDays": 30,
-      "expireAt": 1784376596961,
-      "maxUses": 10,
-      "usedCount": 0,
-      "createdAt": 1781784596961
-    },
-    {
-      "code": "PGEL-EM9B-O32O-88YQ",
+      "code": "2FVR-4SFB-GPOJ-9BPC",
       "expireDays": 0,
       "expireAt": null,
       "maxUses": null,
       "usedCount": 0,
-      "createdAt": 1781785150858
+      "createdAt": 1781785186744
     }
   ],
-  "updatedAt": "2026-06-18T12:19:28.913Z",
-  "total": 2
+  "updatedAt": "2026-06-18T12:19:49.027Z",
+  "total": 1
 }
