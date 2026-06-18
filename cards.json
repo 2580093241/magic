@@ -1,30 +1,22 @@
 {
   "cards": [
     {
-      "code": "2FVR-4SFB-GPOJ-9BPC",
-      "expireDays": 0,
-      "expireAt": null,
-      "maxUses": null,
-      "usedCount": 0,
-      "createdAt": 1781785186744
-    },
-    {
-      "code": "C44D-2A7G-YT5H-8MVF",
+      "code": "2UYR-7KNW-757X-GSOG",
       "expireDays": 30,
-      "expireAt": 1784377305948,
+      "expireAt": 1784377408674,
       "maxUses": 10,
       "usedCount": 0,
-      "createdAt": 1781785305948
+      "createdAt": 1781785408674
     },
     {
-      "code": "NJQK-GY0K-5A3E-M4F3",
-      "expireDays": 30,
-      "expireAt": 1784377306249,
-      "maxUses": 10,
+      "code": "7YNH-N5AR-9FJW-LY0X",
+      "expireDays": 20,
+      "expireAt": 1783513413657,
+      "maxUses": 3,
       "usedCount": 0,
-      "createdAt": 1781785306249
+      "createdAt": 1781785413657
     }
   ],
-  "updatedAt": "2026-06-18T12:21:47.495Z",
-  "total": 3
+  "updatedAt": "2026-06-18T12:23:35.032Z",
+  "total": 2
 }
